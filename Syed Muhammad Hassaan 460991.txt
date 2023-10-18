@@ -1,0 +1,52 @@
+#include <iostream>
+using namespace std;
+int main(){
+ //int s=0,h=0;
+// for (int a=1;a<=10;a++){
+  //   cout<< "Enter a Natural Number"<<endl;
+   //  cin>>h;
+   //  s=s+a;
+     
+ //}
+ //    cout<<"The sum of these natural numbers is"<<s;
+   //  return 0;
+ //}
+ //task2
+ //int n;
+ //cout<<"enter a number whose table is upto 10"<<endl;
+  //  cin>>n;
+  //  for(int h=1; h<=10 ; h++){
+     //   cout<<n<<"x"<<h<<"="<<n*h<<endl;
+        
+  //  }
+  //  return 0;
+//}
+// task3
+//int n;
+//int h=1;
+//cout<<"enter a positive number for its factorial "<<endl;
+//cin>>n;
+//if(n>=0){
+    //if(n>=0){
+        //if(n>=0){
+//}
+//cout<<h;
+//}
+//else{ cout<<"invalid input";
+//}}
+
+
+//task 4
+//cout<<"QUESTION No.04"<<endl;
+//int x,y,z,n;  //declaring x,y,z and n
+//cin>>x>>y;
+//cout<<"enter limit ";  //limit of sequence from user
+//cin>>n;
+//for (int x=0;x<n;x++){ 
+//z=x+y;   //repeating sequence
+//  x=y;
+//  y=z;
+ //   cout<<z<< " ,";
+// }}
+
+ 
